@@ -1,5 +1,5 @@
 ## Glucose sensor project 
-Contains schematics, firmware, tools to work with non-invasive PoC board ![image](https://github.com/user-attachments/assets/4e09378c-0957-4704-b09b-1ffe0a19c873)
+Contains schematics, firmware, tools to work with non-invasive PoC board 
 
 
 
