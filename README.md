@@ -1,1 +1,1 @@
-# .github
+# sugar-sensor system project
