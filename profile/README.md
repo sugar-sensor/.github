@@ -1,5 +1,6 @@
 ## Glucose sensor project 
-Contains schematics, firmware, tools to work with non-invasive PoC board 
+Contains schematics, firmware, tools to work with non-invasive PoC board
+For reading electrical schematics you need [KiCad](https://www.kicad.org/) and for mechanical schematics you need [FreeCAD](https://www.freecad.org/)
 
 
 
